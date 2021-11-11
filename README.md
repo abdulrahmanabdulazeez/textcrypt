@@ -1,4 +1,4 @@
-# textcrypt
+# TEXT-CRYPT
 ```
 Text-Crypt is a tool which uses Caesar Cypher Algorithm to 
 encrypt and decrypt a text.
