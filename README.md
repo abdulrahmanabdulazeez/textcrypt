@@ -28,8 +28,8 @@ g++ textcrypt.cpp -o textcrypt
 
 # Screenshots
 ![1](demo/scr1.png)
-![2](demo/scr2.png)
 ![3](demo/scr4.png)
+![2](demo/scr2.png)
 ![4](demo/scr3.png)
 
 
